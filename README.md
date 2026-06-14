@@ -2,9 +2,6 @@
 
 This repository contains a Jupyter Notebook implementing fundamental computational methods studied in Numerical Analysis. 
 
-## Authors
-* **Panagiotis-Polydoros Vogiatzis** (AEM: 10855)
-* **Christos Gounaris** (AEM: 10638)
 
 ## Features & Contents
 
